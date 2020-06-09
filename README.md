@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-      Modern Phishing Tool With Advanced Functionality 
+      Un outil de phishing moderne avec des fonctionnalités avancées 
 </p>
 <p align="center">
-     PHISHING | KEYLOGGER | INFORMATION_COLLECTOR | ALL_IN_ONE_TOOL | SOCIALENGINEERING  
+     PHISHING | KEYLOGGER | COLLECTOR D'INFORMATIONS | OUTIL TOUT EN UN | SOCIALENGINEERING  
 </p>
 
 <p align="center">
@@ -23,10 +23,10 @@
 ## DISCLAIMER
 
 <p align="center">
-  TO BE USED FOR EDUCATIONAL PURPOSES ONLY
+  A UTILISÉ POUR BUT ÉDUCATIF UNIQUEMENT
 </p>
 
-The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBILITY of the END-USER**. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Also we inform you that some of your your actions may be **ILLEGAL** and you **CAN NOT** use this software to test person or company without **WRITTEN PERMISSION** from them.
+L'utilisation du HiddenEye et de ses ressources/pages de Physhing est **COMPLETE LA RESPONSABILITE de l'UTILISATEUR FINAL**. Les développeurs n'assument AUCUNE responsabilité et ne sont PAS responsables de toute mauvaise utilisation ou de tout dommage causé par ce programme. Nous vous informons également que certaines de vos actions peuvent être **ILLEGALES** et que vous **POUVEZ PAS** utiliser ce logiciel pour tester une personne ou une société sans leur **PERMISSION ÉCRITE**.
 
 
 
@@ -43,6 +43,31 @@ The use of the HiddenEye & its resources/phishing-pages is **COMPLETE RESPONSIBI
 8) DarkMidus (https://github.com/DarkMidus)
 9) O5CARi0US (https://github.com/05carI0us)
 10) ___________ (WAITING FOR YOU)
+
+
+
+
+# INSTALLATION
+
+# Linux
+
+La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que HiddenEye voici rapidement comment il faut faire:
+1) Il vous faudra avoir installé au préalable: -Phython 3 (`sudo apt install python3`)
+                                               -Après faites un `sudo apt update`.
+                                               -Puis installez Pip3 `sudo apt install python3-pip`.
+                                               -Refaites `sudo apt update`.
+                                               -Puis installez git `sudo apt install git`
+                                          
+2) Ensuite installez le fichier en faisant `git clone https://github.com/05carI0us/OSCARPHYSH.git`
+
+3) Mettez oscarPhysh en place: -Faites `cd OSCARPHYSH`
+                               -Installez les prérequis en faisant `pip3 install -r requirements.txt`
+                               -Faites ensuite `pip 3 install wget` si ça vous marque un message d'erreur ou que ça ne fait rien pas grave cette commande est un peu inutile mais je vous conseil de l'utiliser quand même.
+                               -Pour finir installez oscarPhysh en faisant `python3 oscarPhysh.py`
+
+
+
+
 
 # AVAILABLE TUNNELLING OPTIONS**
 0) LOCALHOST 
