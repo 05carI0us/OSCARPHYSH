@@ -49,14 +49,18 @@ L'utilisation du HiddenEye et de ses ressources/pages de Physhing est **COMPLETE
 
 # INSTALLATION
 
-# Linux
+## Linux
 
 La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que HiddenEye voici rapidement comment il faut faire:
 1) Il vous faudra avoir installé au préalable: Phython 3 (`sudo apt install python3`)
                                                Après faites un `sudo apt update`.
                                                Puis installez Pip3 `sudo apt install python3-pip`.
                                                Refaites `sudo apt update`.
+                                               Installez snapd `sudo apt install snapd`
+                                               Refaites encore une fois `sudo apt update`
+                                               Et maintenant installez Ngrok `sudo snap install ngrok`
                                                Puis installez git `sudo apt install git`
+                                               Si vous n'avez pas PHP ou que vous ne savait pas si vous l'avez installé, installé le en faisant `sudo apt-get install php -y`
                                           
 2) Ensuite installez le fichier en faisant `git clone https://github.com/05carI0us/OSCARPHYSH.git`
 
@@ -83,9 +87,9 @@ La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que Hidden
 
 
 ## CREDIT:-
-* Anonud4y ( I don't remember if i have done Anything )
-* Usama ( A Most active Developer)
-* sTiKyt ( Guy Who recustomized everything )
+* Anonud4y
+* Usama ( Le plus actif suremment )
+* sTiKyt ( Le gars qui a tout recustomiser )
 * UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
 * TheLinuxChoice ( For His Tools Phishing Pages ) 
 * Thewhiteh4t (For Nearyou & Gdrive Location Templates)
