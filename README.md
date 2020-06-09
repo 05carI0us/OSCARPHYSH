@@ -88,24 +88,25 @@ La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que Hidden
 
 ## CREDIT:-
 * Anonud4y
-* Usama ( Le plus actif suremment )
-* sTiKyt ( Le gars qui a tout recustomiser )
-* UNDEADSEC (For their wonderful repo socialfish which motivated us a lot)
-* TheLinuxChoice ( For His Tools Phishing Pages ) 
-* Thewhiteh4t (For Nearyou & Gdrive Location Templates)
-* 05carI0us (For the traduction and the customization)
+* 05carI0us (Pour la modification/traduction oscarPhysh, et le rajout de Scripts)
+* Usama (Le plus actif surement)
+* sTiKyt (Le gars qui a tout recustomiser)
+* UNDEADSEC (Pour leur merveilleux repo socialfish qui nous a beaucoup motivés)
+* TheLinuxChoice ( Pour son outil de Physhing: ShellPhysh ) 
+* Thewhiteh4t (Pour la localisation avec NearYou et GDRIVE)
 
-### TESTED ON FOLLOWING:-
-* **Kali Linux - Rolling Edition**
-* **Parrot OS - Rolling Edition**
-* **Linux Mint - 18.3 Sylvia**
-* **Ubuntu - 16.04.3 LTS**
+
+### Testé sur:-
+* **Kali Linux**
+* **Parrot OS**
+* **Linux Mint**
+* **Ubuntu**
 * **MacOS High Sierra**
 * **Arch Linux**
 * **Manjaro XFCE Edition 17.1.12**
 * **Black Arch**
-* **Userland App (For Android Users)**
-* **Termux App (For Android Users)**
+* **Userland App (Terminal pour Android)**
+* **Termux App (Terminal pour android)**
 
 
 ### PREREQUISITES ( Please verify if you have installed )
@@ -114,83 +115,86 @@ La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que Hidden
 * sudo
 * pyngrok
 
-# FOUND A BUG ? / HAVE ANY ISSUE ? :- (Read This)
-* Check closed & solved issues/bugs before opening new.
-* Make sure your issue is related to the codes and resources of this repository.
-* Its your responsibility to response on your opened issues.
-* If we don't found user response on his/her issue in the particular time interval , Then we have to close that issue.
-* Do Not Spam or Advertise & Respect Everyone.
+# Message for @DarkSecDevelopers:
+*IF YOU READ THIS: I JUST TRANSLATE AND SIMPLIFY YOUR SCRIPT, CAN I BE MENTIONATED AS A CONTRIBUTOR LIKE IT'S WRITE ON THE CONTRIBUTORS LIST BEFORE THIS. YOU CAN ALSO USE MY CODE TO INTEGRATE TO HIDDENEYE TO HAVE 2 LANGUAGE. THANKS YOU FOR YOUR CODE AND YOUR PROGGRAMS -05carI0us.*
 
-### WHAT'S NEW FEATURES
-**1) LIVE ATTACK**
-- Now you will have live information about the victims such as : IP ADDRESS, Geolocation, ISP, Country, & many more.
+# TROUVÉ UN BUG ? / Avez vous un problème ? :- (Lisez ceci)
+* Vérifiez les problèmes/ bogues résolus avant d'en ouvrir de nouveaux.
+* Assurez-vous que votre problème est lié aux codes et aux ressources de ce dépôt.
+* Il est de votre responsabilité de répondre aux questions ouvertes.
+* Si nous n'avons pas trouvé de réponse d'un utilisateur à son problème dans un intervalle de temps donné, nous devons alors fermer ce problème.
+* Ne pas faire de spam ou de publicité et respecter tout le monde.
 
-**2) COMPATIBILITY**
-- All the sites are mobile compatible.
+### QUOI DE NEUF ?
+**1) ATTAQUE EN DIRECT
+- Vous disposerez désormais d'informations en direct sur les victimes, telles que : ADRESSE IP, Géolocalisation, FAI, Pays, et bien d'autres encore.
 
-**3) KEYLOGGER**
-- Now you will also have the ability to capture all the keystokes of victim.
-- You can now Deploy Keyloggers With (Y/N) option.
-- Major issues fixed.
+**2) COMPATIBILITÉ**
+- Tous les sites sont compatibles avec les téléphones portables.
 
-**4) ANDROID SUPPORT**
-- We care about Android Users, So now we have came with two ways to run HiddenEye in Android Devices.
+**3) KEYLOGGER
+- Désormais, vous aurez également la possibilité de capturer toutes les clés de la victime.
+- Vous pouvez maintenant déployer des enregistreurs de frappe avec l'option (O/N).
+- Problèmes majeurs corrigés.
+
+**4) SUPPORT ANDROÏDE
+- Nous nous soucions des utilisateurs d'Android, donc nous avons maintenant deux façons de faire fonctionner HiddenEye dans les appareils Android.
 
 **(A) UserLand App**
-- You Have to Download UserLand App. [Click Here](https://play.google.com/store/apps/details?id=tech.ula) To Download it.
-- To read more how to set up userland app Read <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">HERE</a></p> 
+- Vous devez télécharger l'application UserLand. [Cliquez ici](https://play.google.com/store/apps/details?id=tech.ula) pour la télécharger.
+- Pour en savoir plus sur la mise en place de l'application userland Lire <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">ARRIÈRE</a></p> 
 
 **(B) Termux App**
-  - You Have to Download Termux App. [Click Here](https://play.google.com/store/apps/details?id=com.termux) To Download it.
-  - For Further instruction [Check Instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
-  - Termux Users Clone With This Command , Unless Errors may occur during Running.
+  - Vous devez télécharger l'application Termux. [Cliquez ici](https://play.google.com/store/apps/details?id=com.termux) pour la télécharger.
+  - Pour plus d'informations [Consultez les instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+  - Les utilisateurs de Termux clonent avec cette commande, sauf si des erreurs peuvent se produire pendant l'exécution.
 ```
 git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
 
 ```
-**5) NEW LOOK PROVIDED**
-- NOW FOCUS EASILY ON TASKS...
-- CUSTOMIZE APP WITH YOUR OWN THEMES
+**5) NOUVELLE APPARENCE FOURNIE**
+- SE CONCENTRENT DÉSORMAIS FACILEMENT SUR LES TÂCHES...
+- PERSONNALISEZ L'APPLICATION AVEC VOS PROPRES THÈMES
 
-**6) SERVEO URL TYPE SELECTION AVAILABLE NOW**
-- Major issues with serveo is fixed.
-- Now You can choose out of CUSTOM URL and RANDOM URL.
+**6) SÉLECTION DU TYPE D'URL DE SERVICE DISPONIBLE MAINTENANT
+- Les principaux problèmes liés au serviceo sont résolus.
+- Vous pouvez désormais choisir entre l'URL personnalisée et l'URL aléatoire.
 
-**7) LARGE COLLECTION OF PHISHING PAGES ADDED**
-- Pages are taken from various tool including ShellPhish , Blackeye , SocialFish .
+**7) AJOUT D'UNE GRANDE COLLECTION DE PAGES DE PHISHING**
+- Les pages sont extraites de divers outils, notamment ShellPhish , Blackeye , SocialFish .
 
-**8) CAPTURED DATA BACKUP**
-- Backup of Data can be Found At (Server/CapturedData).
+**8) SAUVEGARDE DES DONNÉES SAISIES**
+- La sauvegarde des données peut être trouvée sur (Server/CapturedData).
 
-**9) EMAIL SUPPORT ADDED**
-- Captured Data can be Easily send to Any Email Address (Using Gmail SMTP).
-- It Require User's Gmail Username And Password.
-- GMAIL 2FA SHOULD BE DISABLED IN ORDER TO USE GMAIL SMTP.
-- LESS SECURED APPS SHOULD BE TURNED ON (https://myaccount.google.com/lesssecureapps).
+**9) AJOUT D'UNE ASSISTANCE PAR COURRIER ÉLECTRONIQUE**
+- Les données capturées peuvent être facilement envoyées à n'importe quelle adresse électronique (en utilisant le protocole SMTP de Gmail).
+- Il faut pour cela le nom d'utilisateur et le mot de passe Gmail de l'utilisateur.
+- GMAIL 2FA DOIT ÊTRE DÉSACTIVÉ POUR POUVOIR UTILISER GMAIL SMTP.
+- Les APPS MOINS SÉCURISÉS DOIVENT être activés (https://myaccount.google.com/lesssecureapps).
 
-**10) CUSTOM TEMPLATES ADDED**
-- Two Extra Custom Templates Added.
-- Now Create Your Templates.
-- Check Instructions At ( Webpages/CUSTOM/manual.txt )
+**10) AJOUT DE MODÈLES PERSONNALISÉS**
+- Deux modèles personnalisés supplémentaires ont été ajoutés.
+- Créez maintenant vos modèles.
+- Consultez les instructions à l'adresse suivante ( Webpages/CUSTOM/manual.txt )
 
-**11) TOOLS ADDED**
+**11) OUTILS AJOUTÉS**
 
-**A) LOCATION (Accurately Locate Smartphones using Social Engineering) (Thanks To https://github.com/thewhiteh4t/seeker)**
-  - NEAR YOU (By @thewhiteh4t )
-  - GDRIVE (By @thewhiteh4t)
-## [Check This](https://youtu.be/InSdtLhZzk4) Demonstration video to know How (Location) Social-Engineering-Tool Works.
+**A) LOCALISATION (Localisation précise des smartphones grâce à l'ingénierie sociale) (Merci à https://github.com/thewhiteh4t/seeker)**
+  - PROCHE DE VOUS (Par @thewhiteh4t )
+  - GDRIVE (Par @thewhiteh4t)
+## [Check This](https://youtu.be/InSdtLhZzk4) Vidéo de démonstration pour savoir comment fonctionne l'outil d'ingénierie sociale (localisation).
  
-## FOR FURTHER INSTALLATION PROCEDURE - [(CHECK INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+## POUR UNE PROCÉDURE D'INSTALLATION SUPPLÉMENTAIRE - [(VÉRIFIER LES INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 
-## BACKUP REPOSITORY AVAILABLE AT GITLAB - [(CHECK HERE)](https://gitlab.com/an0nud4y/HiddenEye)
+## REPOSITOIRE DE SOUTIEN DISPONIBLE AU GITLAB - [(VERIFIER ICI)](https://gitlab.com/an0nud4y/HiddenEye)
 </p>
 
-<h3>Ascii error fix</h3>
+<h3>Correction d'erreur Ascii</h3>
 
  `dpkg-reconfigure locales`
 
- `Then select: "All locales" Then select "en_US.UTF-8"`
+ Ensuite, sélectionnez : `All locales` puis, sélectionnez : `en_US.UTF-8`
 
-  `After that reboot your machine. Then open terminal and run the command: "locale"`
+  Après cela, redémarrez votre machine. Ensuite, ouvrez le terminal et exécutez la commande: `locale`
 
-  `There you will see "en_US.UTF-8" which is the default language. Instead of POSIX.`
+  Vous y verrez `en_US.UTF-8` qui est la langue par défaut. Au lieu de POSIX.
