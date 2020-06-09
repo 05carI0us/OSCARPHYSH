@@ -26,23 +26,28 @@
   A UTILISÉ POUR BUT ÉDUCATIF UNIQUEMENT
 </p>
 
-L'utilisation du HiddenEye et de ses ressources/pages de Physhing est **COMPLETE LA RESPONSABILITE de l'UTILISATEUR FINAL**. Les développeurs n'assument AUCUNE responsabilité et ne sont PAS responsables de toute mauvaise utilisation ou de tout dommage causé par ce programme. Nous vous informons également que certaines de vos actions peuvent être **ILLEGALES** et que vous **POUVEZ PAS** utiliser ce logiciel pour tester une personne ou une société sans leur **PERMISSION ÉCRITE**.
+- L'utilisation du HiddenEye et de ses ressources/pages de Physhing est **COMPLETE LA RESPONSABILITE de l'UTILISATEUR FINAL**. Les développeurs n'assument AUCUNE responsabilité et ne sont PAS responsables de toute mauvaise utilisation ou de tout dommage causé par ce programme. Nous vous informons également que certaines de vos actions peuvent être **ILLEGALES** et que vous **POUVEZ PAS** utiliser ce logiciel pour tester une personne ou une société sans leur **PERMISSION ÉCRITE**.
+
+
+- Par ailleurs oscarPhysh n'est qu'une modification/ un mod de HiddenEyes, peut etre que mon mod serra intégré au script original afin d'avoir une version anglaise et une française ou alors peut etre que je le ferrai moi-même. Je pense que a ce jour oscarPhysh est l'outil de Physhing a but éducatif, open source/a but non lucratif le plus simple et le plus puissant en Français. En effet le script de base: HiddeEye est lui même un condensé de tout les meilleurs scripts. Donc oscarPhysh est un mod de HiddenEye qui est lui meme un mod de ShellPhysh, et d'autres outil de géolocalisation.
+
+- Une prochaine mise a jour sortira avec la traduction des pages HTML...
 
 
 
 
 # DEVELOPERS & CONTRIBUTORS
 
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
-6) Moltivie (https://github.com/Moltivie)
-7) endbehavi0r (https://github.com/endbehavi0r)
-8) DarkMidus (https://github.com/DarkMidus)
-9) O5CARi0US (https://github.com/05carI0us)
-10) ___________ (WAITING FOR YOU)
+1) O5CARi0US (https://github.com/05carI0us)
+2) ANONUD4Y (https://github.com/An0nUD4Y)
+3) USAMA ABDUL SATTAR (https://github.com/usama7628674)
+4) sTiKyt (https://github.com/sTiKyt)
+5) UNDEADSEC (https://github.com/UndeadSec)
+6) Micrafast (https://github.com/Micrafast)
+7) Moltivie (https://github.com/Moltivie)
+8) endbehavi0r (https://github.com/endbehavi0r)
+9) DarkMidus (https://github.com/DarkMidus)
+10) ___________ (Ce sera peut-etre toi)
 
 
 
@@ -126,67 +131,16 @@ La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que Hidden
 * Ne pas faire de spam ou de publicité et respecter tout le monde.
 
 ### QUOI DE NEUF ?
-**1) ATTAQUE EN DIRECT
-- Vous disposerez désormais d'informations en direct sur les victimes, telles que : ADRESSE IP, Géolocalisation, FAI, Pays, et bien d'autres encore.
-
-**2) COMPATIBILITÉ**
-- Tous les sites sont compatibles avec les téléphones portables.
-
-**3) KEYLOGGER
-- Désormais, vous aurez également la possibilité de capturer toutes les clés de la victime.
-- Vous pouvez maintenant déployer des enregistreurs de frappe avec l'option (O/N).
-- Problèmes majeurs corrigés.
-
-**4) SUPPORT ANDROÏDE
-- Nous nous soucions des utilisateurs d'Android, donc nous avons maintenant deux façons de faire fonctionner HiddenEye dans les appareils Android.
-
-**(A) UserLand App**
-- Vous devez télécharger l'application UserLand. [Cliquez ici](https://play.google.com/store/apps/details?id=tech.ula) pour la télécharger.
-- Pour en savoir plus sur la mise en place de l'application userland Lire <a href="https://null-byte.wonderhowto.com/how-to/android-for-hackers-turn-android-phone-into-hacking-device-without-root-0189649/">ARRIÈRE</a></p> 
-
-**(B) Termux App**
-  - Vous devez télécharger l'application Termux. [Cliquez ici](https://play.google.com/store/apps/details?id=com.termux) pour la télécharger.
-  - Pour plus d'informations [Consultez les instructions](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
-  - Les utilisateurs de Termux clonent avec cette commande, sauf si des erreurs peuvent se produire pendant l'exécution.
-```
-git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEye.git
-
-```
-**5) NOUVELLE APPARENCE FOURNIE**
-- SE CONCENTRENT DÉSORMAIS FACILEMENT SUR LES TÂCHES...
-- PERSONNALISEZ L'APPLICATION AVEC VOS PROPRES THÈMES
-
-**6) SÉLECTION DU TYPE D'URL DE SERVICE DISPONIBLE MAINTENANT
-- Les principaux problèmes liés au serviceo sont résolus.
-- Vous pouvez désormais choisir entre l'URL personnalisée et l'URL aléatoire.
-
-**7) AJOUT D'UNE GRANDE COLLECTION DE PAGES DE PHISHING**
-- Les pages sont extraites de divers outils, notamment ShellPhish , Blackeye , SocialFish .
-
-**8) SAUVEGARDE DES DONNÉES SAISIES**
-- La sauvegarde des données peut être trouvée sur (Server/CapturedData).
-
-**9) AJOUT D'UNE ASSISTANCE PAR COURRIER ÉLECTRONIQUE**
-- Les données capturées peuvent être facilement envoyées à n'importe quelle adresse électronique (en utilisant le protocole SMTP de Gmail).
-- Il faut pour cela le nom d'utilisateur et le mot de passe Gmail de l'utilisateur.
-- GMAIL 2FA DOIT ÊTRE DÉSACTIVÉ POUR POUVOIR UTILISER GMAIL SMTP.
-- Les APPS MOINS SÉCURISÉS DOIVENT être activés (https://myaccount.google.com/lesssecureapps).
-
-**10) AJOUT DE MODÈLES PERSONNALISÉS**
-- Deux modèles personnalisés supplémentaires ont été ajoutés.
-- Créez maintenant vos modèles.
-- Consultez les instructions à l'adresse suivante ( Webpages/CUSTOM/manual.txt )
-
-**11) OUTILS AJOUTÉS**
-
-**A) LOCALISATION (Localisation précise des smartphones grâce à l'ingénierie sociale) (Merci à https://github.com/thewhiteh4t/seeker)**
-  - PROCHE DE VOUS (Par @thewhiteh4t )
-  - GDRIVE (Par @thewhiteh4t)
-## [Check This](https://youtu.be/InSdtLhZzk4) Vidéo de démonstration pour savoir comment fonctionne l'outil d'ingénierie sociale (localisation).
+**AJOUT D'UNE TRADUCTION FRANÇAISE PAR @05CARI0US**
+- Lancement de la modification Française de HiddenEye: oscarPhysh
+- Traduction en vrai Français par 05carI0us (pas de google Traduction ou autres)
+- Simplification du script.
  
-## POUR UNE PROCÉDURE D'INSTALLATION SUPPLÉMENTAIRE - [(VÉRIFIER LES INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
+# [Check This](https://youtu.be/InSdtLhZzk4) Vidéo de démonstration pour savoir comment fonctionne l'outil d'ingénierie sociale (localisation).
+ 
+# POUR UNE PROCÉDURE D'INSTALLATION SUPPLÉMENTAIRE - [(VÉRIFIER LES INSTRUCTIONS)](https://github.com/DarkSecDevelopers/HiddenEye/wiki/Installation-Instructions)
 
-## REPOSITOIRE DE SOUTIEN DISPONIBLE AU GITLAB - [(VERIFIER ICI)](https://gitlab.com/an0nud4y/HiddenEye)
+# REPOSITOIRE DE SOUTIEN DISPONIBLE AU GITLAB - [(VERIFIER ICI)](https://gitlab.com/an0nud4y/HiddenEye)
 </p>
 
 <h3>Correction d'erreur Ascii</h3>
@@ -198,3 +152,5 @@ git clone -b Termux-Support-Branch https://github.com/DarkSecDevelopers/HiddenEy
   Après cela, redémarrez votre machine. Ensuite, ouvrez le terminal et exécutez la commande: `locale`
 
   Vous y verrez `en_US.UTF-8` qui est la langue par défaut. Au lieu de POSIX.
+
+<h1>MERCI D'UTILISÉ oscarPhysh</h1>
