@@ -52,18 +52,18 @@ L'utilisation du HiddenEye et de ses ressources/pages de Physhing est **COMPLETE
 # Linux
 
 La MODIFICATION de HiddenEye oscarPhysh s'installe de la même façon que HiddenEye voici rapidement comment il faut faire:
-1) Il vous faudra avoir installé au préalable: A) Phython 3 (`sudo apt install python3`)
-                                               B) Après faites un `sudo apt update`.
-                                               C) Puis installez Pip3 `sudo apt install python3-pip`.
-                                               D) Refaites `sudo apt update`.
-                                               E) Puis installez git `sudo apt install git`
+1) Il vous faudra avoir installé au préalable: Phython 3 (`sudo apt install python3`)
+                                               Après faites un `sudo apt update`.
+                                               Puis installez Pip3 `sudo apt install python3-pip`.
+                                               Refaites `sudo apt update`.
+                                               Puis installez git `sudo apt install git`
                                           
 2) Ensuite installez le fichier en faisant `git clone https://github.com/05carI0us/OSCARPHYSH.git`
 
-3) Mettez oscarPhysh en place: F) Faites `cd OSCARPHYSH`
-                               G) Installez les prérequis en faisant `pip3 install -r requirements.txt`
-                               H) Faites ensuite `pip 3 install wget` si ça vous marque un message d'erreur ou que ça ne fait rien pas grave cette commande est un peu inutile mais je vous conseil de l'utiliser quand même.
-                               I) Pour finir installez oscarPhysh en faisant `python3 oscarPhysh.py`
+3) Mettez oscarPhysh en place: Faites `cd OSCARPHYSH`
+                               Installez les prérequis en faisant `pip3 install -r requirements.txt`
+                               Faites ensuite `pip 3 install wget` si ça vous marque un message d'erreur ou que ça ne fait rien pas grave cette commande est un peu inutile mais je vous conseil de l'utiliser quand même.
+                               Pour finir installez oscarPhysh en faisant `python3 oscarPhysh.py`
 
 
 
